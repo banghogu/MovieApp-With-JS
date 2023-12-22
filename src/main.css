@@ -186,7 +186,6 @@ header .user {
     right: 40px;
     margin: auto;
     transition: .3s;
-    background-image: url(./images/banhogu.png);
 }
 
 header .user:hover {
