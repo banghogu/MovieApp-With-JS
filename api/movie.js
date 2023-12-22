@@ -10,4 +10,5 @@ export default async function handelr(req,res) {
 
     const res = await fetch(url)
     const json = res.json()
+    response.status(200).json(json)
 }
